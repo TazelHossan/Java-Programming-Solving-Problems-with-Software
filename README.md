@@ -9,8 +9,7 @@ Some code should be run in a custom Bluej Development Environment made by Duke's
 
 <hr>
 
-<h3>Update 15 January 2018:</h3>
-I finished the course in 3 months due to working 2 full-time jobs but it was a great experience. Here's <a href="https://www.coursera.org/account/accomplishments/certificate/JA6EM9884682">the link to the Certificate.</a>
+
 
 <h3>What I learned in this course:</h3>
 1- Edit, compile, and run a Java program;<br/>
